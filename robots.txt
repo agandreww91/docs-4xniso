@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-szf5u4.apps4pymes.com/sitemap.xml
